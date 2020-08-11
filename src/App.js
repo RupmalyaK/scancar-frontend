@@ -10,8 +10,8 @@ import OrderSummaryView from './customer/components/OrderSummaryView/OrderSummar
 import ConfirmationView from './customer/components/ConfirmationView/ConfirmationView/ConfirmationView'
 import PreviousOrdersView from './customer/components/PreviousOrdersView/PreviousOrdersView/PreviousOrdersView'
 import FavoriteOrdersView from './customer/components/FavoriteOrdersView/FavoriteOrdersView/FavoriteOrdersView'
-// import AppBusiness from './business-admin/components/App'
-// import BusinessAdminView from './business-admin/components/BusinessAdminView/BusinessAdminView/BusinessAdminView'
+ //import AppBusiness from './business-admin/components/App'
+ //import BusinessAdminView from './business-admin/components/BusinessAdminView/BusinessAdminView/BusinessAdminView'
 import CategoryManuOrdersView from './customer/components/CategoryManuOrdersView/CategoryManuOrdersView'
 
 
